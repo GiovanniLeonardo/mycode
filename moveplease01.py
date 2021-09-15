@@ -1,5 +1,5 @@
-# The following line will rename a file
 #!/usr/bin/env python3
+# The following line will rename a file
 import shutil
 import os
 os.chdir('/home/student/mycode/')
